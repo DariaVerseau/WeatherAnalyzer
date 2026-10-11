@@ -32,7 +32,7 @@
 ## Установка и запуск
 
 1. Клонирование репозитория:
-   git clone https://github.com/ВАШ_ЛОГИН/WeatherAnalyzer.git
+   git clone https://github.com/DariaVerseau/WeatherAnalyzer.git
    cd WeatherAnalyzer
 
 2. Сборка:
